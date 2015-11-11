@@ -1,0 +1,10 @@
+{
+    "board_width": 7,
+    "board_height": 7,
+    "pieces": {
+        "king": 2,
+        "queen": 2,
+        "bihop": 2,
+        "knight": 1
+    }
+}

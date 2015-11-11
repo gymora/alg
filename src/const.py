@@ -1,0 +1,5 @@
+BISHOP = "bihop"
+KING = "king"
+KNIGHT = "knight"
+QUEEN = "queen"
+ROOK = "rook"
