@@ -4,7 +4,8 @@
     "pieces": {
         "king": 2,
         "queen": 2,
-        "bihop": 2,
+        "bishop": 2,
+        "rook": 0,
         "knight": 1
     }
 }
